@@ -22,7 +22,7 @@
 
 [https://guide-node-js.wishtack.io/](https://guide-node-js.wishtack.io/)
 
-[https://guide-node-js.wishtack.io/](https://guide-node-js.wishtack.io/)
+{% embed data="{\"url\":\"https://guide-node-js.wishtack.io/\",\"type\":\"link\",\"title\":\"Le Guide Node.js par Wishtack - Le Guide Node.js par Wishtack\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LMff\_psU4HTG0nL7muv%2Favatar.png?generation=1537257399430232&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-LMff\_psU4HTG0nL7muv.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 
   
 
